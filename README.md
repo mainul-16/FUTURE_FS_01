@@ -10,4 +10,4 @@
  ✔
  SEO optimization for better visibility<br><br>
 
- preview : https://soft-capybara-cc1417.netlify.app/
+ preview : https://6873a252684f29b5a9312b8c--meek-smakager-416305.netlify.app/
