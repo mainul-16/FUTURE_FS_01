@@ -1,6 +1,6 @@
 🔹Task: Create a personal portfolio website showcasing skills, projects, and
- achievements.<br>
- 🔹Frontend: HTML, CSS, JavaScript.<br>
+ achievements.<br><br>
+ 🔹Frontend: HTML, CSS, JavaScript.<br><br>
  🔹 Database: Used Formspree (for project updates & contact form).<br><br>
  Key Features:<br>
  ✔
